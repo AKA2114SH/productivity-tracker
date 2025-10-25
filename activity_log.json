@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-10-25 22:30:41",
+    "event": "CLOCK_IN",
+    "details": "Started work session"
+  },
+  {
+    "timestamp": "2025-10-25 22:31:01",
+    "event": "BREAK_START",
+    "details": "Started break"
+  },
+  {
+    "timestamp": "2025-10-25 22:31:05",
+    "event": "BREAK_END",
+    "details": "Resumed work (break: 0m)"
+  },
+  {
+    "timestamp": "2025-10-25 22:31:11",
+    "event": "CLOCK_OUT",
+    "details": "Manual clock out | Active: 0:00:26 | Breaks: 0:00:04"
+  }
+]
